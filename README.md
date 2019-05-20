@@ -33,6 +33,9 @@ Android Studio. A canary or stable version >= 3.2 of Android Studio is
 required and may be downloaded
 [here](https://developer.android.com/studio/archive).
 
+## Contributing
+Please see the [Contributing Guidelines](./contributing.md) for more information on how help.
+
 # Architecture
 
 The 2018 version of the app constitutes a comprehensive rewrite. The
